@@ -2,3 +2,4 @@
 ## H2 header
 ### H3 Header
 ###### Using markdown language.
+#### ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

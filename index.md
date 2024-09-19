@@ -29,4 +29,18 @@ var myVar = "Hello, world!";
 ```javascript
 var myVar = "Hello, world!";
 ```
+<br>
+
+#### Creating a task list
+<pre>
+   - [ ] Turn on GitHub Pages
+   - [ ] Outline my portfolio
+   - [ ] Introduce myself to the world
+  </pre>
+#### How it looks like
+  - [ ] Turn on GitHub Pages
+  - [ ] Outline my portfolio
+  - [ ] Introduce myself to the world
+
+   
 
